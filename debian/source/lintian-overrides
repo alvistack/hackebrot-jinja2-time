@@ -1,0 +1,4 @@
+python-jinja2-time source: file-without-copyright-information
+python-jinja2-time source: no-debian-changes
+python-jinja2-time source: source-contains-prebuilt-windows-binary
+python-jinja2-time source: source-package-encodes-python-version
